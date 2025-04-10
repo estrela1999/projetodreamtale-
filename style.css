@@ -16,12 +16,19 @@ body, html {
   margim: 10%;
   paddin: 10%;
 }
-#incio
+#incio {
+background-color: #FFFACD;
+padding: 20px;
+border-bottom: 2px solid;
+}
+
+#história {
+background-color: #FFFACD;
+padding: 20px;
 
 
 
-
-#história
+}
 
 
 

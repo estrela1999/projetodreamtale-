@@ -23,10 +23,10 @@ border-bottom: 2px solid #ccc;
 }
 
 #história {
-background-color: #FFFFE0;
+background-color: #FFFACD;
 padding: 20px;
-
-
+border-bottom: 2px dashed #FFFFE0;
+text-align: center;
 
 }
 
